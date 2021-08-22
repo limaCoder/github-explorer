@@ -1,5 +1,5 @@
 {
-  "compilerOptions": {                        
+  "compilerOptions": {
     "lib": ["dom", "dom.iterable", "esnext"],                                
     "allowJs": true,                         
     "jsx": "react-jsx",                       
@@ -11,7 +11,7 @@
     "allowSyntheticDefaultImports": true,     
     "esModuleInterop": true,                    
     "skipLibCheck": true,                        
-    "forceConsistentCasingInFileNames": true     
+    "forceConsistentCasingInFileNames": true,
   },
-  "include": ["src"]
+  "include": [ "typings", "src"]
 }
