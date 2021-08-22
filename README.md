@@ -33,7 +33,7 @@
 <h2>🖼️ Imagens do Projeto</h2>
 
 <div align="center" >
-  <img src="assets/img/github-explorer-screenshot.png" width="80000px"/>
+  <img src="github-explorer-screenshot.png" width="80000px"/>
 </div>
 
 </br>
